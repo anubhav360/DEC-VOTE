@@ -1,0 +1,87 @@
+h1
+{
+    text-align: center;
+
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
+    size: 1000 px;
+    margin-top: 50px;
+}
+h3
+{
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 180%;
+    size: 1000 px;
+    ;
+}
+body{
+    background-color:lightblue;
+}
+.rcontainer
+{
+    margin: 25px 50px 75px 720px ;
+    margin-top: 20 px;
+  max-width: 100rem;
+  width: 90%;
+}
+.bcontainer
+{
+    margin: 25px 50px 75px 885px ;
+    margin-top: 20 px;
+  max-width: 100rem;
+  width: 90%;
+  text-decoration: none
+}
+table {
+    margin: 0 auto;
+    margin-top:  100px;
+    align-self: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 70%;
+  background-color: black;
+  color: yellow;
+  border-color: yellow;
+}
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 70%;
+    height: 40px;
+    font-size: 150%;
+    text-align: center;
+    border-color: yellow;
+}
+th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 70%;
+    height: 40px;
+    font-size: 180%;
+    border-color: yellow;
+}
+.text{
+    margin: 0 auto;
+    align-self: center;
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%; 
+    margin-top: 20 px;  
+    size: 400px;
+}
+.buttond
+{
+    background-color: black;
+    color: white;
+    border-width: 20 px;
+    size: 300 px;
+    padding: 15px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    text-align: center;
+    text-decoration: none
+}
