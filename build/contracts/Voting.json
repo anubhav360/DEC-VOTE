@@ -6931,10 +6931,16 @@
       "links": {},
       "address": "0xB132D7c20f77e778b0E7ef6c68Bf839D082Bd5Cc",
       "transactionHash": "0xbd1ebd2dd6232a0598f1ed2d372c57ed1d0a00ad7f752e23a24df63230206d6d"
+    },
+    "1625736932376": {
+      "events": {},
+      "links": {},
+      "address": "0x8FED54d6f7928b8fCeFeb3BBCCD2B62A337493cA",
+      "transactionHash": "0xc25ff60a0776e523c49e9a4dc0e58a11c645ccfb18f6e19d8edeb01678079b51"
     }
   },
   "schemaVersion": "3.4.0",
-  "updatedAt": "2021-05-20T11:39:40.282Z",
+  "updatedAt": "2021-07-08T09:36:40.000Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
